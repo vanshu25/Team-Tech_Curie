@@ -1,4 +1,4 @@
-# Team-Tech_Curie
+# Team-Tech_Curie, Idea Id: 3445
 ## Ring of Mantra's Project code for Toycathon 2021
 
 - RoM.zip is the zip file which contains code of the mobile application. You can download it and extract files to run on Android STudio.
